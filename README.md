@@ -1,5 +1,7 @@
 # Wallpaper App
 
+> A completely free, watermark-free live wallpaper engine for macOS.
+
 Wallpaper App is a macOS AppKit desktop utility that plays videos and animated images behind your desktop icons as a live wallpaper.
 
 It includes a floating control center, a status bar menu, launch-at-login support, audio control, battery saver controls, and automatic `WEBM -> MP4` conversion for files that macOS cannot play natively.
